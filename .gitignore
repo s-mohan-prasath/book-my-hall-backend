@@ -1,0 +1,11 @@
+/node_modules
+
+#ignore images
+*.jpeg
+*.png
+*.jpg
+*.webp
+
+#ignore documents
+*.pdf
+*.doc
